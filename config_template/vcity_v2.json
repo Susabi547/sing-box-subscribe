@@ -205,18 +205,7 @@
       ],
       "default": "Proxy"
     },
-    {
-      "tag": "AdBlock",
-      "type": "selector",
-      "outbounds": [
-        "block",
-        "direct",
-        "Proxy",
-        "🇭🇰 香港自动"
-      ],
-      "default": "block"
-    },
-    {
+        {
       "tag": "🇭🇰 香港自动",
       "type": "urltest",
       "outbounds": [
